@@ -1,11 +1,22 @@
 {
   "name": "lightsserver",
   "version": "1.0.0",
-  "description": "",
   "scripts": {
     "start": "func start",
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {},
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robotgenis/LightsServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robotgenis/LightsServer/issues"
+  },
+  "homepage": "https://github.com/robotgenis/LightsServer#readme",
+  "description": ""
 }
